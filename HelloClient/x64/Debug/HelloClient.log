@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HelloClient.cpp
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\c_ds_algo\NetworkProgarming_TCPServerClient\HelloClient\HelloClient.cpp(55,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HelloClient.vcxproj -> C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\c_ds_algo\NetworkProgarming_TCPServerClient\x64\Debug\HelloClient.exe
