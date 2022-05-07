@@ -1,1 +1,4 @@
-﻿
+﻿  stdafx.cpp
+  HelloServer.cpp
+C:\Users\ASUS\source\repos\-IT4060Q\HelloServer\HelloServer.cpp(47,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HelloServer.vcxproj -> C:\Users\ASUS\source\repos\-IT4060Q\x64\Debug\HelloServer.exe
